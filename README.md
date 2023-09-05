@@ -11,4 +11,6 @@ The videos are clipped  as short videos and labelled them as flipping or not fli
 Data is then given as images.
 
 #Approach.
-I used both Pytorch and Tensorflow  to build a Convulution Neural Network Model.
+I used both Pytorch and Tensorflow  to build a Convulution Neural Network Model.The Pytorch model gave the best accuracy of 98.66 and 100% prediction on single images.
+
+I later built a Vision Transformer model
