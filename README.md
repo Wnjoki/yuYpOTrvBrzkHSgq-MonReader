@@ -13,4 +13,5 @@ Data is then given as images.
 #Approach.
 I used both Pytorch and Tensorflow  to build a Convulution Neural Network Model.The Pytorch model gave the best accuracy of 98.66 and 100% prediction on single images.
 
-I later built a Vision Transformer model
+I also built a Vision Transformer model which gave an accuracy of 98.16% upon evaluation.Several evaluation methods are perfored and the accuracy metrics evaluated are  high and consistent. 
+
